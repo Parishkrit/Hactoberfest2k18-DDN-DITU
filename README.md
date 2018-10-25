@@ -2,7 +2,7 @@
 *Let's Contribute!!!*
 
 ### Hacktoberfest 2018
-Anyone can contribute to this repo to make their contribution to open-source on Github.
+Anyone can contribute to this repo to make their contribution to open-source on Github.  
 
 Celebrate HacktoberFest by getting involved in the Open Source Community by completing some simple tasks in this project.
 
